@@ -1,0 +1,16 @@
+django == 4.2.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pip install -r requirement.txt
